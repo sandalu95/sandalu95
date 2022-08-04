@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sandalu Kalpanee</h1>
-<h3 align="center">Software Engineer at WSO2, Sri Lanka🌟.</h3>
+<h3>Hi 👋, I'm Sandalu Kalpanee</h3>
+<h4>Software Engineer at WSO2, Sri Lanka🌟.</h4>
 
-<h3 align="center">Visit my Website Here.</h3>
-<h4 align="center">https://sandalu.carrd.co</h4>
+<h4>Visit my Website Here.</h4>
+<p>https://sandalu.carrd.co<p>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=sandalu95&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h4>Profile Views :</h4> <img src="https://komarev.com/ghpvc/?username=sandalu95&label=Profile%20views&color=0e75b6&style=flat"
     alt="sandalu95" /> 
   </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sandalukalpanee@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://www.linkedin.com/in/sandalu-kalpanee/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -31,7 +31,7 @@
       alt="sandy" height="30" width="40" /></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -66,26 +66,19 @@
       width="40" height="40" /> </a> </p>
 
 <br>
-
-<h3>Statistical Data :-</h3>
+<h4>Statistical Data :</h4>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sandalu95&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="sandalu95" 
     bg_color=#808080/></p>
 
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalu95&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"
     alt="sandalu95" /></p>
 
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandalu95&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sandalu95" /></p>
 
-<!-- <br>
-<h3>Trophies :-</h3>
+<br>
+
+<h4>Trophies :</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=sandalu95&bg_color=0d1117&text_color=ffffff" alt="sandalu95" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=sandalu95&&title=MultiLanguage,Repositories,Commits,PullRequest" alt="sandalu95" /></a> </p>
