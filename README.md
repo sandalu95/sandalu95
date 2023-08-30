@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently studying a master's degree in Information Technology at RMIT University, Melbourne, Australia
 
-- 📫 How to reach me **sandykiara1995@gmail.com.com**
+- 📫 How to reach me **sandykiara1995@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
