@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Sandalu Kalpanee</h3>
-<h4>Software Engineer at WSO2, Sri Lanka🌟.</h4>
+<h4>Former Software Engineer at WSO2, Sri Lanka🌟.</h4>
 
 <h4>Visit my Website Here.</h4>
 <p>https://sandalu.carrd.co<p>
@@ -11,9 +11,9 @@
 <p><img align="right" src="https://github.com/sandalu95/sandalu95/blob/main/animation_500_kxa883sd.gif" alt="sandalu95" /></p>
 
 
-- 🌱 I’m currently working as a software engineer at WSO2, Sri Lanka
+- 🌱 I’m currently studing a master's degree in Information Technology at RMIT University, Melbourne, Australia
 
-- 📫 How to reach me **sandalukalpanee@gmail.com**
+- 📫 How to reach me **sandykiara1995@gmail.com.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
