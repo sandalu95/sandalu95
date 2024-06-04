@@ -1,10 +1,10 @@
 <h3>Hi 👋, I'm Sandalu Kalpanee</h3>
-<h4>Former Software Engineer at WSO2, Sri Lanka🌟.</h4>
+<h4>Former Software Engineer at WSO2, Sri Lanka.</h4>
 
 <p><img align="right" src="https://github.com/sandalu95/sandalu95/blob/main/animation_500_kxa883sd.gif" alt="sandalu95" /></p>
 
 
-- 🌱 I’m currently studying a master's degree in Information Technology at RMIT University, Melbourne, Australia
+- 🎓 I’m currently studying a master's degree in Information Technology at RMIT University, Melbourne, Australia
 
 - 📫 How to reach me **sandykiara1995@gmail.com**
 
@@ -58,12 +58,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> </p>
 
-<br>
 <h4>Statistical Data :</h4>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sandalu95&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sandalu95&show_icons=true&locale=en&layout=compact"
     alt="sandalu95" 
-    bg_color=#808080/></p>
+    theme="light"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalu95&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalu95&count_private=true&show_icons=true&include_all_commits=true&theme=light"
     alt="sandalu95" /></p>
