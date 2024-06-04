@@ -1,13 +1,6 @@
 <h3>Hi 👋, I'm Sandalu Kalpanee</h3>
 <h4>Former Software Engineer at WSO2, Sri Lanka🌟.</h4>
 
-<h4>Visit my Website Here.</h4>
-<p>https://sandalu.carrd.co<p>
-
-<p align="right"> <h4>Profile Views :</h4> <img src="https://komarev.com/ghpvc/?username=sandalu95&label=Profile%20views&color=0e75b6&style=flat"
-    alt="sandalu95" /> 
-  </p>
-
 <p><img align="right" src="https://github.com/sandalu95/sandalu95/blob/main/animation_500_kxa883sd.gif" alt="sandalu95" /></p>
 
 
@@ -74,11 +67,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalu95&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"
     alt="sandalu95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandalu95&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sandalu95" /></p>
-
-<br>
-
-<h4>Trophies :</h4>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=sandalu95&&title=MultiLanguage,Repositories,Commits,PullRequest" alt="sandalu95" /></a> </p>
