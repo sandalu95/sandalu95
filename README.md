@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Sandalu Kalpanee</h3>
+<h3>Hi 👋, I'm Umesha Sandalu</h3>
 <h4>Former Software Engineer at WSO2, Sri Lanka.</h4>
 
 <p><img align="right" src="https://github.com/sandalu95/sandalu95/blob/main/animation_500_kxa883sd.gif" alt="sandalu95" /></p>
