@@ -4,9 +4,9 @@
 <p><img align="right" src="https://github.com/sandalu95/sandalu95/blob/main/animation_500_kxa883sd.gif" alt="sandalu95" /></p>
 
 
-- 🎓 I’m currently studying a master's degree in Information Technology at RMIT University, Melbourne, Australia
+- 🎓 I recently graduated with a master's degree in Information Technology from RMIT University, Melbourne, Australia
 
-- 📫 How to reach me **sandykiara1995@gmail.com**
+- 📫 How to reach me **sandalukalpanee@gmail.com**
 
 <h4>My Stats :</h4>
 <p><img align="center"
