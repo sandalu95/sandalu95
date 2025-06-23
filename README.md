@@ -9,10 +9,9 @@
 - 📫 How to reach me **sandalukalpanee@gmail.com**
 
 <h4>My Stats :</h4>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sandalu95&show_icons=true&locale=en&layout=compact"
-    alt="sandalu95" 
-    theme="light"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandalu95&count_private=true&show_icons=true&include_all_commits=true&theme=light"
-    alt="sandalu95" /></p>
+![sandalu95's Stats](https://github-readme-stats.vercel.app/api?username=sandalu95&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![sandalu95's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandalu95&theme=vue-dark&hide_border=true)
+
+![sandalu95's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandalu95&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
